@@ -1,0 +1,180 @@
+header {
+    background-color: #6A4C9C;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#logoAutismo {
+    width: 7vh;
+    height: 10vh;
+    margin-top: 7%;
+}
+
+#divLogoAutismo {
+    text-align: center;
+}
+
+#titleHeader {
+    font-size: 20px;
+    font-family: "Montserrat", "Sans-serif";
+    font-weight: bold;
+    color: #FFB86F;
+    width: 90%;
+    margin: auto;
+    text-align: justify;
+    margin-top: 8%;
+}
+
+#pHeader {
+    font-size: 10px;
+    font-family: "Inter", "Sans-serif";
+    color: #ffffff;
+    width: 90%;
+    margin: auto;
+    margin-top: 4%;
+}
+
+#btnSaberMais {
+    background-color: #6A4C9C;
+    border: 1px solid #FFB86F;
+    border-radius: 3px;
+    width: 38%;
+    font-size: 8px;
+    font-family: "Montserrat", "Sans-serif";
+    font-weight: bold;
+    color: white;
+}
+
+#divBtnSaberMais {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    margin-top: 3%;
+    padding-bottom: 6%;
+}
+
+#titleSec1 {
+    color: #6A4C9C;
+    width: 75%;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Montserrat", "Sans-serif";
+    margin: auto;
+    margin-top: 9%;
+}
+
+#pSec1 {
+    font-size: 10px;
+    font-family: "Inter", "Sans-serif";
+    color: #3B2E5A;
+    width: 85%;
+    margin: auto;
+    text-align: justify;
+    margin-top: 3%;
+}
+
+#imgAprender {
+    width: 12vh;
+    height: 12vh;
+}
+
+#col1Desafios {
+    display: flex;
+    width: 85%;
+    margin-left: 2.5%;
+}
+
+#pCol1Desafios {
+    color: #3B2E5A;
+    font-size: 10px;
+    font-family: "Inter", "Sans-serif";
+    text-align: left;
+    margin-top: 10%;
+}
+
+#col2Desafios {
+    display: flex;
+    margin-left: 2.5%;
+    width: 85%;
+}
+
+#imgAutonomia {
+    width: 12vh;
+    height: 12vh;
+}
+
+#pCol2Desafios {
+    color: #3B2E5A;
+    font-size: 10px;
+    font-family: "inter", "Sans-serif";
+    text-align: left;
+    margin-top: 10%;
+}
+
+#pCol3Desafios {
+    color: #3B2E5A;
+    font-size: 10px;
+    font-family: "inter", "Sans-serif";
+    text-align: left;
+    margin-top: 10%;
+}
+
+#col3Desafios {
+    display: flex;
+    margin-left: 2.5%;
+    width: 85%;
+}
+
+#imgAjuda {
+    width: 12vh;
+    height: 12vh;
+}
+
+#p{
+    font-size: 10px;
+    font-family: "inter", "Sans-serif";
+    text-align: justify;
+    width: 85%;
+    margin: auto;
+    color: #3B2E5A;
+}
+
+#divQuemSouEu{
+    background-color: #6A4C9C;
+    margin-top: 9%;
+    padding-bottom: 8%;
+}
+
+#titleQuemSouEu{
+    color: white;
+    font-family: "Montserrat", "Sans-serif";
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 7%;
+}
+
+#imgCintia{
+    width: 28vh;
+    height: 25vh;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#divImgCintia{
+    text-align: center;
+    margin-top: 9%;
+}
+
+#pQuemSouEu{
+    font-size: 10px;
+    font-family: "Inter", "Sans-serif";
+    width: 80%;
+    margin: auto;
+    color: white;
+    text-align: justify;
+    margin-top: 5%;
+}
